@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: normal;
+    src: url("vazir/Vazirmatn-Regular.ttf") format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: bold;
+    src: url("vazir/Vazirmatn-Bold.ttf") format("truetype");
+    font-display: swap;
+}
+
